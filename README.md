@@ -1,10 +1,3 @@
-
-</head>
-<body>
-<header class="hero">
-  <div class="container hero-inner">
-    <div>
-      <span class="badge">Mine Planning Clarity Toolkit • Excel, No Macros</span>
       <h1>Hit Your Head Grade—Every Day.</h1>
       <p class="lead">Daily Blend — Multi-Bin (Gold) <strong>PRO</strong> is a purpose-built Excel template that turns your % plan into stable <strong>head grade</strong>, predictable <strong>ounces</strong>, and safe <strong>stockpile buffers</strong>—in minutes.</p>
       <div class="price-tag"><span class="price">$39</span><span class="sub">one-time • all users (planners, met, consultants & learners)</span></div>
@@ -14,7 +7,7 @@
       </div>
       <p class="tiny">Includes: paste-and-go How-To + <strong>free site-specific customization</strong>.</p>
     </div>
-    <div class="card" style="padding:18px">
+    <div class="card" style="padding:38px">
       <div class="gallery">
         <div class="shot"><strong>Blend</strong><br/>Enter % per bin → Tonnes, Head, Ounces<br/><span class="pill">Head band ✓</span></div>
         <div class="shot"><strong>Daily Engine</strong><br/>Start/Add/Pull/End per bin<br/><span class="pill">No over-pull</span></div>
@@ -35,7 +28,7 @@
       </ul>
       <p><strong>Daily Blend PRO</strong> fixes the last mile between pit schedules and the plant. Plan by %, see tonnes/head/oz instantly, with bin-level recoveries, buffer alerts, and a weekly target overlay.</p>
     </div>
-    <div class="card" style="padding:18px">
+    <div class="card" style="padding:38px">
       <h3 style="margin-top:0">What makes it different</h3>
       <div class="features">
         <div class="feat"><span class="emoji">📅</span><h3>Dates horizontal</h3><p>Fast scanning across days. Great for meetings.</p></div>
@@ -62,7 +55,7 @@
         </ol>
         <p class="tiny">Perfect for learners: comes with a clear “How to Use” guide and inline cues.</p>
       </div>
-      <div class="card" style="padding:18px">
+      <div class="card" style="padding:38px">
         <h3 style="margin-top:0">What you’ll control</h3>
         <ul class="clean">
           <li>Sum % = 100% (green) each day</li>
@@ -122,7 +115,7 @@
 </section>
 
 <footer class="footer">
-  <div class="container" style="padding:28px">
+  <div class="container" style="padding:38px">
     <div style="display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between">
       <div><strong>Mine Planning Clarity Toolkit</strong><br/>Daily Blend — Multi-Bin (Gold) PRO • Excel • $39 one-time</div>
       <div><a href="mailto:mshanamartine@gmail.com">Contact</a> • <a href="#buy">Buy Now</a> • <a href="#how">How it Works</a></div>
@@ -130,4 +123,3 @@
   </div>
 </footer>
 </body>
-</html>
